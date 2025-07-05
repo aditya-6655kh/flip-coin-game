@@ -14,6 +14,9 @@ body{
     justify-content: center;
     height: 100vh;
     width: 100vw;
+    padding: 1rem;
+    box-sizing: border-box;
+    text-align: center;
 }
 
 h1{
@@ -95,4 +98,53 @@ button.flip-button:hover{
     font-weight: bold;
     margin-top: 1rem;
     color: #fff;
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2.2rem;
+    }
+
+    p {
+        font-size: 1rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .coin-container {
+        width: 120px;
+        height: 120px;
+    }
+
+    button.flip-button {
+        font-size: 1rem;
+        padding: 8px 16px;
+    }
+
+    #result-text {
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.8rem;
+    }
+
+    p {
+        font-size: 0.95rem;
+    }
+
+    .coin-container {
+        width: 100px;
+        height: 100px;
+    }
+
+    button.flip-button {
+        font-size: 0.95rem;
+        padding: 7px 14px;
+    }
+
+    #result-text {
+        font-size: 1rem;
+    }
 }
