@@ -32,7 +32,7 @@
 
 ## Overview
 
-![screenshot](./screenshot.png)
+![screenshot](./thumbnail.png)
 
 "Flip the Coin" is a simple interactive web project that allows users to flip a virtual coin by either clicking on the coin itself or a "RANDOM" button. The result (Heads or Tails) is displayed dynamically using JavaScript.
 
