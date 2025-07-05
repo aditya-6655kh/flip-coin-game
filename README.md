@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://your-demo-link.com">
+    <a href=" https://aditya-6655kh.github.io/flip-coin-game/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/Aditya-6655kh/flip-the-coin">
+    <a href="https://github.com/aditya-6655kh/flip-the-coin">
       Solution
     </a>
     <span> | </span>
@@ -63,11 +63,6 @@
 - Coin animation during flip
 - Responsive and centered layout
 
-## Contact
-
-- GitHub [@your-username](https://github.com/your-username)
-- Email: your-email@example.com
-
 ## Acknowledgements
 
 - devChallenges.io for the challenge inspiration
@@ -75,5 +70,4 @@
 
 ## Author
 
-- GitHub: [@your-username](https://github.com/your-username)
-- Website: [your-website.com](https://your-website.com)
+- GitHub: [@aditya](https://github.com/aditya-6655kh)
